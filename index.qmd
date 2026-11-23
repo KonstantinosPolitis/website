@@ -1,5 +1,6 @@
 ---
 title: ""
+pagetitle: "Konstantinos Stavros Politis | Finance PhD Candidate, University of Piraeus"
 page-layout: custom
 toc: false
 ---
@@ -11,7 +12,7 @@ toc: false
 ![](images/cover_photo.jpg){.profile-photo}
 
 <div class="name">
-Konstantinos S. Politis
+<h1 class="name">Konstantinos S. Politis</h1>
 </div>
 
 <div class="affiliation">
